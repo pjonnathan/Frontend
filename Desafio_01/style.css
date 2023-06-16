@@ -1,0 +1,18 @@
+.cabecario {
+    background-color: #BB86FC;
+    color: white;
+}
+
+.cabecario th{
+    padding: 10px;
+}
+
+.corpo {
+    background-color: #424250;
+    color: white;
+}
+
+.corpo td {
+    padding: 10px;
+}
+
